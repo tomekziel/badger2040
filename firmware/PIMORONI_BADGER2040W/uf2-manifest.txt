@@ -1,9 +1,3 @@
 *.py
-examples/*.png
-examples/*.py
-images/*.jpg
-images/*.txt
-badges/*.txt
-badges/*.jpg
-books/*.txt
+cyferki/*.png
 icons/*.png
