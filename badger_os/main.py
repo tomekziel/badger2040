@@ -1,1 +1,2 @@
-import launcher  # noqa F401
+import badger_os
+badger_os.launch("/pogodynka")
