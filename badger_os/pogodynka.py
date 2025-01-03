@@ -347,7 +347,7 @@ while True:
     # Call halt in a loop, on battery this switches off power.
     # On USB, the app will exit when A+C is pressed because the launcher picks that up.
     display.keepalive()
-    badger2040.sleep_for(1)
+    badger2040.sleep_for(58)
     badger2040.turn_off()
 
 
